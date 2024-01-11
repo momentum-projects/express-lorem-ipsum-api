@@ -8,7 +8,7 @@ Lorem ipsum is placeholder text commonly used in the graphic, print, and publish
 
 This repo contains a Vue.js front-end application that you can use with your API. The front-end application is already built and ready to go, so you don't _need_ to change it, although you are welcome to modify it after you have your API working. You can find the front-end application in the `frontend` folder. To run the front-end application, you will need to install the dependencies.
 
-``` cd frontend && npm install``
+``` cd frontend && npm install```
 
 The backend application is in the `backend` folder. You will need to install the dependencies for the backend application as well.
 
